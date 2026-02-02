@@ -1,0 +1,12 @@
+# 核心构建工具 - 固定版本
+kconfiglib==14.1.0
+PyYAML==6.0.3
+SCons==4.10.1
+
+# 其他包 - 允许自动更新
+certifi>=2025.11.12
+charset-normalizer>=3.4.4
+idna>=3.11
+requests>=2.32.5
+tqdm>=4.67.1
+urllib3>=2.6.0
